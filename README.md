@@ -1,5 +1,7 @@
 # quiz-vue
 
+![](frame_generic_dark.png)
+
 ## Project setup
 ```
 npm install
